@@ -1,10 +1,10 @@
-Investing Toolkit for personal use.
+# Investing Toolkit for personal use.
 
-This project is a "work in progress"! This means that at this point is not full fledge software.
+This project is a *"work in progress"*! This means that at this point is not full fledge software.
 It will have errors, wrong information, not working scripts and other "bugged" or crappy things.
 
 ---
-# To Do`s:
+### To Do`s:
 
 [] Write a better README file.
 [] The base architecture of the program will be writed on Python and Django or Flask?
@@ -17,8 +17,8 @@ It will have errors, wrong information, not working scripts and other "bugged" o
         - [Yahoo Finance - Stock Market Live, Quotes, Business & Finance News](https://finance.yahoo.com/?guccounter=1)
 
 ---
-# In Progress:
+### In Progress:
 
 ---
-# Done:
+### Done:
 
